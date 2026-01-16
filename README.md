@@ -1,22 +1,11 @@
 <a href="https://edgeone.ai/?from=github">
-  <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Logo" /> 本项目的 CDN 加速和安全保护由腾讯 EdgeOne 赞助
+  <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Logo" /> 本项目的加速和安全保护由观音菩萨保佑
 </a>
 
 # Docker ZeroTier Planet
 
 > 一键部署 ZeroTier Planet 服务器，支持 Docker 容器化部署
 
-## 📢 交流群
-
-### Telegram
-- **TG交流群**：https://t.me/+JduuWfhSEPdlNDk1
-
-### QQ Group
-- **1群**：692635772 
-- **2群**：785620313
-- **3群**：316239544
-- **4群**：1027678459
-- **5群**：651935808
 
 ## 📱 微信公众号
 ![二维码](assets/wechat.png)
@@ -56,39 +45,6 @@
 - [10. 类似项目](#10-类似项目)
 - [11. 捐助和支持](#11-捐助和支持)
 - [12. 鸣谢](#12-鸣谢)
-
----
-
-## 0. 托管服务
-
-### 0.1 自运营容器服务
-
-**寻找便捷的解决方案？**
-
-我们提供专业的托管服务：
-
-| 服务项目 | 详情 |
-|---------|------|
-| **试用期** | 免费试用 3 天 |
-| **年费** | 仅需 99￥ |
-| **带宽** | 高速带宽 300Mbit |
-| **流量政策** | 每月 100G 转发流量，P2P 连接后不计流量，超出后每 10 元 100G |
-| **机房** | 优质线路：宁波电信机房 |
-| **联系方式** | Telegram：[https://t.me/uxkram](https://t.me/uxkram) 或加入 QQ 群咨询群主 |
-
-**测速图如下：**
-
-<img src="./assets/nb-speed-test.png" width="800" alt="宁波机房测速图" align="center" />
-
-### 0.2 雨云容器服务
-
-[![通过雨云一键部署](https://rainyun-apps.cn-nb1.rains3.com/materials/deploy-on-rainyun-cn.svg)](https://app.rainyun.com/apps/rca/store/6215?ref=220429)
-
-### 0.3 微信公众号
-
-欢迎关注公众号获取最新动态和技术分享
-
-<img src="./assets/wx_qrcode_pub.jpg" width="300" alt="微信公众号二维码" align="center" />
 
 ---
 
@@ -201,13 +157,10 @@ sudo systemctl restart docker
 
 **官方地址：**
 ```bash
-git clone https://github.com/xubiaolin/docker-zerotier-planet.git
+git clone https://github.com/miandui123/docker-zerotier-planet.git
 ```
 
-**加速地址：**
-```bash
-git clone https://ghproxy.imoyuapp.win/github.com/xubiaolin/docker-zerotier-planet.git
-```
+
 
 ### 3.3 执行安装脚本
 
@@ -545,18 +498,6 @@ services:
 本项目仅供学习和研究使用，不鼓励用于商业用途。我们不对任何因使用本项目而导致的任何损失负责。
 
 ---
-
-## 10. 类似项目
-
-- [WireGuard 一键脚本](https://github.com/xubiaolin/wireguard-onekey)
-
----
-
-## 11. 捐助和支持
-
-如果觉得本项目对您有帮助，欢迎通过扫描下方赞赏码捐助项目 :)
-
-<img src="assets/donate.png" alt="donate" width="400" height="400" />
 
 ---
 
