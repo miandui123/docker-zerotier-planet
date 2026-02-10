@@ -1,14 +1,10 @@
 <a href="https://edgeone.ai/?from=github">
-  <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Logo" /> 本项目的加速和安全保护由观音菩萨保佑
 </a>
 
 # Docker ZeroTier Planet
 
 > 一键部署 ZeroTier Planet 服务器，支持 Docker 容器化部署
 
-
-## 📱 微信公众号
-![二维码](assets/wechat.png)
 
 ## ✨ 功能特性
 
@@ -21,7 +17,6 @@
 
 ## 📋 目录
 
-- [0. 托管服务](#0-托管服务)
 - [1. ZeroTier 介绍](#1-zerotier-介绍)
 - [2. 为什么要自建 PLANET 服务器](#2-为什么要自建-planet-服务器)
 - [3. 开始安装](#3-开始安装)
@@ -43,8 +38,6 @@
 - [8. 开发计划](#8-开发计划)
 - [9. 风险声明](#9-风险声明)
 - [10. 类似项目](#10-类似项目)
-- [11. 捐助和支持](#11-捐助和支持)
-- [12. 鸣谢](#12-鸣谢)
 
 ---
 
